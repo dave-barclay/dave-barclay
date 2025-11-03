@@ -1,6 +1,5 @@
 ##  Hi, I am David.
 
-Check out [VIX-Labs's Github](https://github.com/vix-labs)
 Connect with me: [Linkedin](https://linkedin.com/in/david-barclay1)
 
 ----------------------------------
@@ -11,8 +10,6 @@ Developer | Product Manager | Investor
 Welcome to my Github profile, Here you'll find a variety of open-source projects & free tools focusing on AI tools, Web3 dApps, front-end tools, personal portfolio website/s, and passion projects / experiments.
 
 *   🌍  I'm based in Sydney, Australia
-*   ✉️  You can contact me at [david@vix-labs.com](mailto:david@vix-labs.com)
-*   🤝  Need help with a web3 project // check out [VIX-Labs's Github](https://github.com/vix-labs)
 
 ###  Skills 
 <p align="left">
